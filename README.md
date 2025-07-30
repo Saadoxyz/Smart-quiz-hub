@@ -539,9 +539,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Saad Ahmed
+Copyright (c) 2024 Saad Khan
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+Permission is not granted to charge, any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
@@ -556,7 +556,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Saad Ahmed** - Full Stack Developer
+**Saad Khan** - Full Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-saadoxyz-black?style=for-the-badge&logo=github)](https://github.com/saadoxyz)
 [![Email](https://img.shields.io/badge/Email-saadoxyz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadoxyz@gmail.com)
@@ -574,6 +574,6 @@ copies or substantial portions of the Software.
   [![Forks](https://img.shields.io/github/forks/Saadoxyz/Smart-quiz-hub?style=social)](https://github.com/Saadoxyz/Smart-quiz-hub/network)
   [![Watchers](https://img.shields.io/github/watchers/Saadoxyz/Smart-quiz-hub?style=social)](https://github.com/Saadoxyz/Smart-quiz-hub/watchers)
   
-  <p>Made with ❤️ by <a href="https://github.com/saadoxyz">Saad Ahmed</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/saadoxyz">Saad Khan</a></p>
   
 </div>
