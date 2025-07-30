@@ -14,7 +14,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/Saadoxyz/Smart-quiz-hub?style=flat-square)](https://github.com/Saadoxyz/Smart-quiz-hub/issues)
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80" alt="Smart Quiz Hub Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=200&q=80" alt="Smart Quiz Hub Banner" width="600" height="200" style="object-fit: cover; border-radius: 8px;" />
   
   <h3>🚀 Advanced Learning Platform for Modern Enterprises</h3>
   <p>Intelligent assessments with real-time analytics and enterprise-grade security</p>
@@ -350,19 +350,19 @@ Content-Type: application/json
 
 ### 🏠 Home Page
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&w=800&q=80" alt="Home Page" width="80%" />
+  <img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&w=500&h=250&q=80" alt="Home Page" width="500" height="250" style="object-fit: cover; border-radius: 8px;" />
   <p><em>Modern landing page with glassmorphism design</em></p>
 </div>
 
 ### 👨‍💼 Admin Dashboard
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=800&q=80" alt="Admin Dashboard" width="80%" />
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=500&h=250&q=80" alt="Admin Dashboard" width="500" height="250" style="object-fit: cover; border-radius: 8px;" />
   <p><em>Comprehensive admin panel with analytics</em></p>
 </div>
 
 ### 👨‍🎓 Student Interface
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&w=800&q=80" alt="Student Interface" width="80%" />
+  <img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&w=500&h=250&q=80" alt="Student Interface" width="500" height="250" style="object-fit: cover; border-radius: 8px;" />
   <p><em>Interactive quiz interface with real-time timer</em></p>
 </div>
 
