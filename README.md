@@ -483,7 +483,7 @@ We welcome contributions! Here's how you can help:
    git push origin feature/amazing-feature
    ```
 
-### 📋 Contribution Guidelines
+### Contribution Guidelines
 
 -  Follow existing code style
 -  Add tests for new features  
@@ -525,7 +525,7 @@ Found a bug? Please create an issue with:
 - [ ]  Theme customization
 - [ ]  Performance optimization
 
-### 🎯 Version History
+###  Version History
 
 - **v1.0.0** - Initial release with core features
 - **v1.1.0** - Enhanced UI/UX and analytics
